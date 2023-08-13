@@ -1,3 +1,8 @@
+---
+title: Mission Statement
+layout: template
+filename: Mission.md
+--- 
 <!DOCTYPE html>
 <html>
     <head>
