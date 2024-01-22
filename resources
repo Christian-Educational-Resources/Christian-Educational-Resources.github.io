@@ -47,9 +47,10 @@ font-size: 18px;
       <h1>Resources Available</h1>
       <div class="sidebar">
       <div><a href="index.html">Home</a></div>
+      <div><a href="articles.html">Mission</a></div>
+      </div>
       <div><a href="materials.html">Mission</a></div>
       </div>
-      
       <div class="body-text">
       <!-- body content -->
       </div>
